@@ -1,0 +1,16 @@
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\obj\Debug\AngularJSDataService.csprojResolveAssemblyReference.cache
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataService.dll.config
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataService.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataService.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataModels.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataServiceInterface.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\EntityFramework.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataModels.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSDataServiceInterface.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\EntityFramework.xml
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\obj\Debug\AngularJSDataService.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\obj\Debug\AngularJSDataService.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSUtilities.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataService\bin\Debug\AngularJSUtilities.pdb
